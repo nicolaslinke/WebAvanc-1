@@ -62,8 +62,7 @@
               "RelativeToolTip": "WebAPI\\DTO\\LoginDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:21:27.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T19:21:27.352Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "WebAPI\\DTO\\RegisterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:17:30.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T19:17:30.739Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "WebAPI\\WebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-27T19:13:50.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T19:13:50.928Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T20:54:27.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:54:27.811Z"
             },
             {
               "$type": "Document",
@@ -112,7 +108,7 @@
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwD4AAAAVAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwD4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:52:38.775Z",
               "EditorCaption": ""
@@ -127,8 +123,7 @@
               "RelativeToolTip": "WebAPI\\Controllers\\AccountController.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAgwDoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:42:59.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:42:59.403Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "Models\\Migrations\\20240823202957_initiale.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAowB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:29:57.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:29:57.325Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:23:33.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:23:33.383Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "Models\\Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:12:48.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:12:48.535Z"
             },
             {
               "$type": "Document",
@@ -179,8 +171,7 @@
               "RelativeToolTip": "Models\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:20:01.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:20:01.015Z"
             }
           ]
         }

@@ -1,2 +1,8 @@
 <button type="button" (click)="testPublic()">TestPublic</button>
-<button>TestPrivate</button>
+<button type="button" (click)="testPrivate()">TestPrivate</button>
+
+<form>
+    <input type="text" name="username" [(ngModel)]="username">
+    <button type="button" (click)="enregistrer()">Enregistrer</button>
+    <button type="button" (click)="login()">Login</button>
+</form>
