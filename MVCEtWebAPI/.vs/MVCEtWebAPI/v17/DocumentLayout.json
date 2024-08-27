@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\mvcetwebapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\mvcetwebapi\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Migrations\\20240823202957_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20240823202957_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|c:\\users\\2185802\\downloads\\mvcetwebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D046FC40-B091-4596-A301-BDD8675B3463}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2185802\\downloads\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D046FC40-B091-4596-A301-BDD8675B3463}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D046FC40-B091-4596-A301-BDD8675B3463}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|c:\\users\\2185802\\downloads\\mvcetwebapi\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|solutionrelative:models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\models\\migrations\\20240823202957_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354CB671-FDF0-48B4-AB9D-35DEFDB1D886}|Models\\Models.csproj|solutionrelative:models\\migrations\\20240823202957_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,10 +55,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:21:27.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "WebAPI\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:17:30.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T19:13:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\WebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\appsettings.json",
               "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -55,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\WebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:52:38.775Z",
               "EditorCaption": ""
@@ -70,66 +121,62 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:42:59.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "20240823202957_initiale.cs",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Migrations\\20240823202957_initiale.cs",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Migrations\\20240823202957_initiale.cs",
               "RelativeDocumentMoniker": "Models\\Migrations\\20240823202957_initiale.cs",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Migrations\\20240823202957_initiale.cs",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Migrations\\20240823202957_initiale.cs",
               "RelativeToolTip": "Models\\Migrations\\20240823202957_initiale.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAA9wB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:29:57.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:29:57.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MVCEtWebAPI",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
+              "DocumentIndex": 7,
+              "Title": "MVCEtWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "RelativeDocumentMoniker": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "RelativeToolTip": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:23:33.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Models",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Models.csproj",
-              "RelativeDocumentMoniker": "Models\\Models.csproj",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Models.csproj",
-              "RelativeToolTip": "Models\\Models.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:12:48.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:23:33.383Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T20:12:48.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\2185802\\Downloads\\MVCEtWebAPI\\Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Models\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:20:01.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:20:01.015Z"
             }
           ]
         }
