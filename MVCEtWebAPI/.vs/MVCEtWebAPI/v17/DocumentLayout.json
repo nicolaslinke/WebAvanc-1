@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96717602-7C0D-4A19-A92F-523C6B5B537F}|WebAPI\\WebAPI.csproj|c:\\users\\2185802\\downloads\\webavanc-1\\mvcetwebapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\DTO\\LoginDTO.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\DTO\\RegisterDTO.cs",
@@ -81,7 +81,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WebAPI",
+              "Title": "WebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
               "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\WebAPI.csproj",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -106,20 +106,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Program.cs",
               "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAUAAAASAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwD4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T20:52:38.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\WebAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\AccountController.cs",
@@ -138,9 +138,10 @@
               "RelativeDocumentMoniker": "Models\\Migrations\\20240823202957_initiale.cs",
               "ToolTip": "C:\\Users\\2185802\\Downloads\\WebAvanc-1\\MVCEtWebAPI\\Models\\Migrations\\20240823202957_initiale.cs",
               "RelativeToolTip": "Models\\Migrations\\20240823202957_initiale.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA9wB0AAAAlAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:29:57.325Z"
+              "WhenOpened": "2024-08-23T20:29:57.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,7 +153,8 @@
               "RelativeToolTip": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:23:33.383Z"
+              "WhenOpened": "2024-08-23T20:23:33.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -164,7 +166,8 @@
               "RelativeToolTip": "Models\\Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:12:48.535Z"
+              "WhenOpened": "2024-08-23T20:12:48.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,7 +179,8 @@
               "RelativeToolTip": "Models\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:20:01.015Z"
+              "WhenOpened": "2024-08-23T20:20:01.015Z",
+              "EditorCaption": ""
             }
           ]
         }
